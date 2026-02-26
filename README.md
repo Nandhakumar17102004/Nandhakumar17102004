@@ -124,7 +124,7 @@ Image-processing pipeline that detects drowsiness using facial landmarks (EAR, e
 ---
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandhakumar-ponnusamy-6015b621b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhakumarponnusamy856@gmail.com)
 
 ---
