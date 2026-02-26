@@ -11,27 +11,38 @@ I am an enthusiastic **Machine Learning Engineer / Researcher** interested in AI
 ## Experience
 📍**Dataconquest Research Hub, Coimbatore**
 
-Working on real-world ML/DL applications involving data preprocessing, model training, and evaluation for computer vision and applied AI tasks. Built end-to-end pipelines using TensorFlow, PyTorch, and OpenCV including dataset preparation, augmentation, and experiment tracking. Performed hyperparameter tuning, model comparison, and metric-based evaluation such as Dice, IoU, Precision, Recall, F1, and AUC. Contributed to research exploration through literature review, reproducible experiments, and technical documentation.
+Worked on real-world Machine Learning and Deep Learning applications across computer vision, medical imaging, and Intelligent Transportation Systems. Designed and implemented end-to-end ML pipelines covering data preprocessing, dataset preparation, augmentation, feature engineering, model development, training, evaluation, and deployment-ready experimentation. Built and optimized models using TensorFlow, PyTorch, and OpenCV, incorporating systematic experiment tracking and reproducible research workflows.
+
+Performed advanced hyperparameter tuning using techniques such as Artificial Bee Colony (ABC) optimization to improve model convergence, robustness, and generalization performance. Conducted model benchmarking, ablation studies, and class imbalance handling to enhance predictive reliability.
+
+Evaluated models through comprehensive metric-based analysis including Dice coefficient, IoU, Precision, Recall, F1-score, ROC-AUC, and threshold optimization strategies. Applied Explainable AI techniques such as SHAP and LIME to enhance interpretability, perform failure analysis, and support trustworthy AI deployment.
+
+Contributed to research exploration through structured literature reviews, reproducible experimentation, and publication-ready technical documentation, maintaining high standards of scientific rigor and engineering discipline.
 
 ## 🧠 Skills
 
-### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-
----
-
-### ⚙ Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-grey?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Cloud](https://img.shields.io/badge/Cloud-grey?style=for-the-badge)
 
 ---
 
-## Projects (selected)
+## Projects 
 
 ### 1. Deepfake Detection & Blockchain Replica
 **Summary:** Developing a secure deepfake detection framework combining multiple deep learning architectures and a tamper-resistant deployment pipeline. The system evaluates three models: a hybrid XceptionNet + VisionTransformer for combining local texture analysis with global attention, VGG16 enhanced with frequencydomain features to capture compression artifacts, and DenseNet to improve multi-scale feature sharing through dense connectivity. A custom dataset is generated using InsightFace-based face swapping, where source and target identities are merged to create synthetic deepfake samples that are then used for training and benchmarking. The project also implements a real-time secure web application using Streamlit with MongoDB storage to ensure immutable detection results and practical deployment. The framework performs systematic model comparison, integrates spatial and frequency features, and focuses on building a reliable, real-world deepfake detection system.  
@@ -107,10 +118,14 @@ Image-processing pipeline that detects drowsiness using facial landmarks (EAR, e
 
 ## 📞 Contact Me
 
-📧 Email: nandhakumarponnusamy856@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/nandhakumar-ponnusamy-6015b621b/ .
 🌐 Portfolio: https://yourportfolio.com  
 🐙 GitHub: https://github.com/Nandhakumar17102004
+
+---
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhakumarponnusamy856@gmail.com)
 
 ---
 **Owned and developed by Nandhakumar**  
