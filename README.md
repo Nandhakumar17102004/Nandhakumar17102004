@@ -9,7 +9,8 @@ I am an enthusiastic **Machine Learning Engineer / Researcher** interested in AI
 ---
 
 ## Experience
-📍 Dataconquest Research Hub, Coimbatore
+📍**Dataconquest Research Hub, Coimbatore**
+
 Working on real-world ML/DL applications involving data preprocessing, model training, and evaluation for computer vision and applied AI tasks. Built end-to-end pipelines using TensorFlow, PyTorch, and OpenCV including dataset preparation, augmentation, and experiment tracking. Performed hyperparameter tuning, model comparison, and metric-based evaluation such as Dice, IoU, Precision, Recall, F1, and AUC. Contributed to research exploration through literature review, reproducible experiments, and technical documentation.
 
 ## 🧠 Skills
