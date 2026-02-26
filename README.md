@@ -39,15 +39,17 @@ I am an enthusiastic **Machine Learning Engineer / Researcher** interested in AI
 ### 2. Fitverse  
 **Summary:** About FitVerse is a comprehensive health and fitness app platform, integrating workout tracking, nutrition management, and wellness tools. This repository houses the core resources and code to create a user-focused solution for a healthier lifestyle and health chatbot integrated using Google Fit API.  
 **Tech:**  React Native, Firebase and deployed via Android Studio.  
-**Link:** https://github.com/gurusaran1205/FitVerse.
+**Link:** https://github.com/gurusaran1205/FitVerse
 
 
 ---
 
 ### 3. Driver Drowsiness Detection (Image-processing based)  
-**Summary:** Image-processing pipeline that detects drowsiness using facial landmarks (EAR, eye-closure %, mouth opening). Driver drowsiness detection system that detects signs of fatigue using facial landmarks (Eye Aspect Ratio, eye closure percentage, and yawning). The system uses dlib for facial landmark detection and OpenCV for image processing and visualization.
+**Summary:** 
+Image-processing pipeline that detects drowsiness using facial landmarks (EAR, eye-closure %, mouth opening). Driver drowsiness detection system that detects signs of fatigue using facial landmarks (Eye Aspect Ratio, eye closure percentage, and yawning). The system uses dlib for facial landmark detection and OpenCV for image processing and visualization.
 **Tech:** OpenCV, dlib (shape_predictor_68_face_landmarks), NumPy, OpenCV.  
 **Link:** https://github.com/Nandhakumar17102004/driver-Drowsiness-
+
 ---
 
 ### 4. Computer Network Project — TCP/UDP Client–Server Banking System  
