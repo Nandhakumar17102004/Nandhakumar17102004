@@ -3,17 +3,20 @@
 ---
 
 ## 🚀 About Me
-I am an enthusiastic **Machine Learning Engineer / Researcher** interested in AI, Machine Learning, Deep Learning, and Cloud Computing.
+I am an enthusiastic **Machine Learning Engineer / Researcher** interested in AI, Machine Learning, Deep Learning, and Cloud Computing. An undergraduate Computer Science student with a strong interest in Machine Learning and Deep Learning. I have basic knowledge of HTML, CSS and JavaScript, and hands-on experience with TensorFlow for building and training models and OpenCV for image processing. I’m passionate about applying AI techniques to solve real-world problems and continuously exploring new technologies.
 
 - 🌱 Currently Learning: Advanced AI, and NLP  
 ---
+
+## Experience
+📍 Dataconquest Research Hub, Coimbatore
+Working on real-world ML/DL applications involving data preprocessing, model training, and evaluation for computer vision and applied AI tasks. Built end-to-end pipelines using TensorFlow, PyTorch, and OpenCV including dataset preparation, augmentation, and experiment tracking. Performed hyperparameter tuning, model comparison, and metric-based evaluation such as Dice, IoU, Precision, Recall, F1, and AUC. Contributed to research exploration through literature review, reproducible experiments, and technical documentation.
 
 ## 🧠 Skills
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ---
 
@@ -22,7 +25,6 @@ I am an enthusiastic **Machine Learning Engineer / Researcher** interested in AI
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
-![Blockchain](https://img.shields.io/badge/Blockchain-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Cloud](https://img.shields.io/badge/Cloud-grey?style=for-the-badge)
 
@@ -105,8 +107,7 @@ Image-processing pipeline that detects drowsiness using facial landmarks (EAR, e
 ## 📞 Contact Me
 
 📧 Email: nandhakumarponnusamy856@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/nandhakumar-ponnusamy-6015b621b/ 
-
+💼 LinkedIn: https://www.linkedin.com/in/nandhakumar-ponnusamy-6015b621b/ .
 🌐 Portfolio: https://yourportfolio.com  
 🐙 GitHub: https://github.com/Nandhakumar17102004
 
