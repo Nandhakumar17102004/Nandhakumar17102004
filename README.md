@@ -41,7 +41,10 @@ Contributed to research exploration through structured literature reviews, repro
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge)
 
 ---
+## Cloud & Certifications
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud)](https://www.skills.google/public_profiles/211d5cb8-8d65-4244-8618-d7df6ad5934a)
+
+---
 
 ## Projects 
 
