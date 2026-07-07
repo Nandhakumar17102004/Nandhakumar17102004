@@ -77,7 +77,7 @@ Designed a lightweight deep learning framework for Remaining Useful Life predict
 
 ---
 
-### 3. Driver Drowsiness Detection (Image-processing based)  
+### 5. Driver Drowsiness Detection (Image-processing based)  
 **Summary:** 
 Image-processing pipeline that detects drowsiness using facial landmarks (EAR, eye-closure %, mouth opening). Driver drowsiness detection system that detects signs of fatigue using facial landmarks (Eye Aspect Ratio, eye closure percentage, and yawning). The system uses dlib for facial landmark detection and OpenCV for image processing and visualization.
 **Tech:** OpenCV, dlib (shape_predictor_68_face_landmarks), NumPy, OpenCV.  
@@ -85,35 +85,35 @@ Image-processing pipeline that detects drowsiness using facial landmarks (EAR, e
 
 ---
 
-### 4. Computer Network Project — TCP/UDP Client–Server Banking System  
+### 6. Computer Network Project — TCP/UDP Client–Server Banking System  
 **Summary:** Multi-client banking simulation using TCP for reliable transactions and UDP for real-time alerts. Implements sign-up, login, view, transfer, delete account, and notification listeners.  
 **Tech:** Python sockets (TCP + UDP), threading, socket.  
 **Link:** https://github.com/Nandhakumar17102004/computernetworkproject  
 
 ---
 
-### 5. Graph with Trie-Based Indexing  
+### 7. Graph with Trie-Based Indexing  
 **Summary:** Hybrid data structure combining graph topology and trie-like prefix indexing to store and query strings efficiently. Supports insert, search, delete, and visualization (NetworkX).  
 **Tech:** Python, NetworkX, adjacency-list + weight matrix  
 **Link:** https://github.com/Nandhakumar17102004/DSA_proj
 
 ---
 
-### 6. Regular Expression → NFA (Transition Table Generator)  
+### 8. Regular Expression → NFA (Transition Table Generator)  
 **Summary:** Educational tool that parses regex (a, b, e, |, *, parentheses) and builds an NFA transition table (Thompson-style ε-transitions). Prints transition function and final state.  
 **Tech:** Python (parser + table builder)  
 **Link:** https://github.com/Nandhakumar17102004/TOC
 
 ---
 
-### 7. Graph-Based Route Planner (BFS shortest + non-overlapping alternate path)  
+### 9. Graph-Based Route Planner (BFS shortest + non-overlapping alternate path)  
 **Summary:** Road network modeled as an undirected graph. Computes minimum-intersection path (BFS) and a non-overlapping alternative path by blocking nodes/edges used in the first path.  
 **Tech:** C++ (BFS, adjacency matrix), algorithmic implementation for routing constraints  
 **Link:** https://github.com/Nandhakumar17102004/DAA
 
 ---
 
-### 8. Reader–Writer Simulation — Food Processing Plant   
+### 10. Reader–Writer Simulation — Food Processing Plant   
 **Summary:** Operating Systems lab modeled as a food processing plant (washing, peeling, chopping, packaging). Demonstrates Mutual Exclusion, Progress, and Bounded Waiting; resource locking and scheduling strategies shown.  
 **Tech / Concepts:** Concurrency, synchronization (reader-writer), deadlock avoidance, starvation prevention  
 **Demo:** — Live demo: https://sujankarthikm.github.io/dragonfly1/  
@@ -121,14 +121,14 @@ Image-processing pipeline that detects drowsiness using facial landmarks (EAR, e
 
 ---
 
-### 9. Solar Flare Classification  
+### 11. Solar Flare Classification  
 **Summary:** Created a CNN in Keras to classify solar magnetogram images into flare vs. no-flare categories. Developed a deep learning pipeline for automatic classification of solar flare events using astrophysical imagery datasets. Designed a Convolutional Neural Network combined with a multilayer perceptron to classify solar flares into standard intensity classes. Exported the trained model and representative test images for UI integration in a potential deployment phase.
 **Tech:** TensorFlow / Keras, CNN, MLP, and Streamlit.  
 **Link:** https://github.com/Nandhakumar17102004/solarflare_prediction
 
 ---
 
-### 10. CyberCrimeRecords Classification System
+### 12. CyberCrimeRecords Classification System
 **Summary:** Web-based cybercrime record management and analysis system developed to classify cases and visualize crime trends.Designed relational database schema for structured cybercrime storage. Optimized SQL queries for efficient retrieval and filtering. Built dashboards to visualize crime frequency, trends, and hotspots. Integrated charting libraries for interactive analysis.
 **Tech:** PHP, MySQL, HTML/CSS, JavaScript  
 **Demonstration:** https://drive.google.com/file/d/1txQz8rb3O2vr2e7DPqkuL-HjYx0OUT-A/view
