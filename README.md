@@ -66,6 +66,7 @@ Contributed to research exploration through structured literature reviews, repro
 ### 3. Retrieval-Grounded Multimodal Clinical Language Modeling
 **Summary:** 
 Developed a privacy-preserving multimodal healthcare AI framework integrating Retrieval-Augmented Generation (RAG), patient-specific vector indexing, structured clinical records, and diagnostic imaging for evidence-grounded clinical language modeling. Designed an offline pipeline with modality-aware visual feature extraction and local LLM-based generation to improve factual consistency, multimodal reasoning, and data privacy.
+
 **Link** 
 
 ---
@@ -73,6 +74,7 @@ Developed a privacy-preserving multimodal healthcare AI framework integrating Re
 ### 4. AI-Enabled Predictive Maintenance Framework for Energy-Efficient IIoT Systems
 **Summary:**
 Designed a lightweight deep learning framework for Remaining Useful Life prediction and health-state classification using multivariate sensor data from NASA N-CMAPSS. Integrated regime-aware sensor gating, Graph Attention Networks, Mamba-based temporal modeling, and multitask learning to improve predictive performance while enabling efficient edge-IIoT deployment.
+
 **Link**  https://github.com/Nandhakumar17102004/AI-Enabled-Predictive-Maintenance-Framework-for-Energy-Efficient-IIoT-Systems
 
 ---
