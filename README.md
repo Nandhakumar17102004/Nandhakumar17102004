@@ -63,6 +63,20 @@ Contributed to research exploration through structured literature reviews, repro
 
 ---
 
+### 3.
+**Summary:** 
+Developed a privacy-preserving multimodal healthcare AI framework integrating Retrieval-Augmented Generation (RAG), patient-specific vector indexing, structured clinical records, and diagnostic imaging for evidence-grounded clinical language modeling. Designed an offline pipeline with modality-aware visual feature extraction and local LLM-based generation to improve factual consistency, multimodal reasoning, and data privacy.
+**Link** 
+
+---
+
+### 4. 
+**Summary:**
+Designed a lightweight deep learning framework for Remaining Useful Life prediction and health-state classification using multivariate sensor data from NASA N-CMAPSS. Integrated regime-aware sensor gating, Graph Attention Networks, Mamba-based temporal modeling, and multitask learning to improve predictive performance while enabling efficient edge-IIoT deployment.
+**Link**  
+
+---
+
 ### 3. Driver Drowsiness Detection (Image-processing based)  
 **Summary:** 
 Image-processing pipeline that detects drowsiness using facial landmarks (EAR, eye-closure %, mouth opening). Driver drowsiness detection system that detects signs of fatigue using facial landmarks (Eye Aspect Ratio, eye closure percentage, and yawning). The system uses dlib for facial landmark detection and OpenCV for image processing and visualization.
