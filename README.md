@@ -52,6 +52,7 @@ Contributed to research exploration through structured literature reviews, repro
 **Summary:** Developing a secure deepfake detection framework combining multiple deep learning architectures and a tamper-resistant deployment pipeline. The system evaluates three models: a hybrid XceptionNet + VisionTransformer for combining local texture analysis with global attention, VGG16 enhanced with frequencydomain features to capture compression artifacts, and DenseNet to improve multi-scale feature sharing through dense connectivity. A custom dataset is generated using InsightFace-based face swapping, where source and target identities are merged to create synthetic deepfake samples that are then used for training and benchmarking. The project also implements a real-time secure web application using Streamlit with MongoDB storage to ensure immutable detection results and practical deployment. The framework performs systematic model comparison, integrates spatial and frequency features, and focuses on building a reliable, real-world deepfake detection system.  
 **Tech:** Python, Pytorch, Blockchain, MangoDb, Insightface, Deeplearning.  
 **Link:** https://drive.google.com/drive/folders/12SBofeIpI3mqVg7RJMMtzw7FUziWtmYF?usp=sharing
+
 ---
 
 ### 2. Fitverse  
