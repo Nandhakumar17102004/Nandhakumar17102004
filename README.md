@@ -67,7 +67,7 @@ Contributed to research exploration through structured literature reviews, repro
 **Summary:** 
 Developed a privacy-preserving multimodal healthcare AI framework integrating Retrieval-Augmented Generation (RAG), patient-specific vector indexing, structured clinical records, and diagnostic imaging for evidence-grounded clinical language modeling. Designed an offline pipeline with modality-aware visual feature extraction and local LLM-based generation to improve factual consistency, multimodal reasoning, and data privacy.
 
-**Link:** 
+**Link:** https://drive.google.com/file/d/1kiXXPzi6-I4W534q1YUKfYGQrlws48LV/view?usp=sharing
 
 ---
 
