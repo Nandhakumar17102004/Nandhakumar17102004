@@ -84,8 +84,8 @@ Designed a lightweight deep learning framework for Remaining Useful Life predict
 Bank marketing campaign analysis project focused on understanding customer behavior and improving campaign effectiveness. The project explores historical banking data to identify patterns in customer responses, evaluates the performance of different marketing strategies, and builds predictive models to estimate whether a customer will subscribe to a term deposit. The workflow includes data cleaning, exploratory data analysis (EDA), machine learning modeling, and model evaluation using metrics such as accuracy, precision, and recall.
 
 **Tech:** Python, Power BI, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Machine Learning.
-
-**Link:** https://drive.google.com/file/d/1qswW76t1nDpKlFPv6iWJpcOH6BBxTDsk/view?usp=sharing
+**Link:** https://github.com/Nandhakumar17102004/business_analytics
+**Demo:** https://drive.google.com/file/d/1qswW76t1nDpKlFPv6iWJpcOH6BBxTDsk/view?usp=sharing
 
 ---
 ---
